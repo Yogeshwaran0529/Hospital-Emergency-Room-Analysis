@@ -1,8 +1,8 @@
 ## 🏥 Hospital Emergency Room Dashboard – SQL & Power BI Project
 
-## 📌 Overview
+This end-to-end data analytics project analyzes Patients Visiting emergency room trends across a 19-month period. The goal is to uncover insights about patient flow, satisfaction, wait time, admission details, demographics, and referral patterns to help improve ER efficiency.
 
-This end-to-end data analytics project analyzes patient wait times and emergency room trends across a 19-month period. The goal is to uncover insights about patient flow, satisfaction, demographics, and referral patterns to help improve ER efficiency.
+## 📌 Overview
 
 The project uses **MySQL** for data cleaning, EDA, transformation, followed by **Power BI** for visual storytelling, DAX-based measures, and interactive reporting.
 
@@ -57,5 +57,3 @@ The project uses **MySQL** for data cleaning, EDA, transformation, followed by *
 - **Admission Pattern**: Nearly 50% of patients were admitted
 
 ---
-
-

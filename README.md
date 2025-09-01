@@ -58,20 +58,21 @@ The project uses **MySQL** for data cleaning, EDA, transformation, followed by *
 
 ---
 
-## 📷 Dashboard Screenshots
+## 📷 Dashboard 
 
 ### 🟩 Monthly View
-Hospital ER Analysis - Montly View.png
 
 
 ### 🟩 Consolidated View
- <img width="1157" height="703" alt="image" src="https://github.com/user-attachments/assets/5f6075b0-88b3-4b22-94eb-3abcbcc04d8b" />
+
 
 ### 🟩 Key Takeaways View
-<img width="1158" height="709" alt="image" src="https://github.com/user-attachments/assets/0e75fc09-c16e-4ec7-af12-4de79dd71095" />
+
 
 ### 🟩 Patient View
- <img width="1155" height="705" alt="image" src="https://github.com/user-attachments/assets/abacbbd2-a190-426e-9054-0ebaabac90b7" />
 
- **Created by Yogeshwaran N**  
+
+ **Developed by** 
+ **Yogeshwaran N**
 🔗 [LinkedIn](https://www.linkedin.com/in/yogeshwarann0529/)
+yogeshwarann0529@gmail.com

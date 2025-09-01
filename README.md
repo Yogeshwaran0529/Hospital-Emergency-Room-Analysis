@@ -1,4 +1,4 @@
-🏥 Hospital Emergency Room Dashboard – SQL & Power BI Project
+#🏥 Hospital Emergency Room Dashboard – SQL & Power BI Project
 
 ## 📌 Overview
 

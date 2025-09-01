@@ -61,14 +61,14 @@ The project uses **MySQL** for data cleaning, EDA, transformation, followed by *
 ## 📷 Dashboard Screenshots
 
 ### 🟩 Monthly View
-![Monthly View]<img width="1153" height="707" alt="image" src="https://github.com/user-attachments/assets/2a9b7406-6c1a-4154-8986-599186b9ad18" />
+<img width="1153" height="707" alt="image" src="https://github.com/user-attachments/assets/2a9b7406-6c1a-4154-8986-599186b9ad18" />
 
 
 ### 🟩 Consolidated View
-![Consolidated View] <img width="1157" height="703" alt="image" src="https://github.com/user-attachments/assets/5f6075b0-88b3-4b22-94eb-3abcbcc04d8b" />
+ <img width="1157" height="703" alt="image" src="https://github.com/user-attachments/assets/5f6075b0-88b3-4b22-94eb-3abcbcc04d8b" />
 
 ### 🟩 Key Takeaways View
-![Key Takeaways]<img width="1158" height="709" alt="image" src="https://github.com/user-attachments/assets/0e75fc09-c16e-4ec7-af12-4de79dd71095" />
+<img width="1158" height="709" alt="image" src="https://github.com/user-attachments/assets/0e75fc09-c16e-4ec7-af12-4de79dd71095" />
 
 ### 🟩 Patient View
-![Patient View] <img width="1155" height="705" alt="image" src="https://github.com/user-attachments/assets/abacbbd2-a190-426e-9054-0ebaabac90b7" />
+ <img width="1155" height="705" alt="image" src="https://github.com/user-attachments/assets/abacbbd2-a190-426e-9054-0ebaabac90b7" />

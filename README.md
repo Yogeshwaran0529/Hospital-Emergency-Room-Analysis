@@ -61,7 +61,7 @@ The project uses **MySQL** for data cleaning, EDA, transformation, followed by *
 ## 📷 Dashboard 
 
 ### 🟩 Monthly View
-
+![Monthly View](./Hospital%20ER%20Analysis%20-%20Montly%20View.png)
 
 ### 🟩 Consolidated View
 

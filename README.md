@@ -63,13 +63,14 @@ The project uses **MySQL** for data cleaning, EDA, transformation, followed by *
 ### 🟩 Monthly View
 ![Monthly View](./Hospital%20ER%20Analysis%20-%20Montly%20View.png)
 
-### 🟩 Consolidated View
+### 🟦 Consolidated View
+![Consolidated View](./Hospital%20ER%20Analysis%20-%20Consolidated%20View.png)
 
+### 🟨 Patient View
+![Patient View](./Hospital%20ER%20Analysis%20-%20Patient%20View.png)
 
-### 🟩 Key Takeaways View
-
-
-### 🟩 Patient View
+### 🟥 Key Insights
+![Keynotes](./Hospital%20ER%20Analysis%20-%20Keynotes.png)
 
 
  **Developed by** 

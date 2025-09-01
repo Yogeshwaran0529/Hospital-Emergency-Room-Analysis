@@ -61,7 +61,7 @@ The project uses **MySQL** for data cleaning, EDA, transformation, followed by *
 ## 📷 Dashboard Screenshots
 
 ### 🟩 Monthly View
-<img width="1153" height="707" alt="image" src="https://github.com/user-attachments/assets/2a9b7406-6c1a-4154-8986-599186b9ad18" />
+Hospital ER Analysis - Montly View.png
 
 
 ### 🟩 Consolidated View

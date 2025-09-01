@@ -74,4 +74,4 @@ Hospital ER Analysis - Montly View.png
  <img width="1155" height="705" alt="image" src="https://github.com/user-attachments/assets/abacbbd2-a190-426e-9054-0ebaabac90b7" />
 
  **Created by Yogeshwaran N**  
-🔗 [LinkedIn](www.linkedin.com/in/yogeshwarann0529)
+🔗 [LinkedIn](www.linkedin.com/in/yogeshwarann0529/)

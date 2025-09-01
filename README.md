@@ -17,7 +17,7 @@ The project uses **MySQL** for data cleaning, EDA, transformation, followed by *
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Objective
 
 ### 🔹 Monthly View
 - Total patients per month
